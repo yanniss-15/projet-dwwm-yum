@@ -15,4 +15,7 @@
 .nav-bar-first-part a, .nav-bar-second-part a {
   text-decoration: none;
   color: white;
+}
+.nav-bar-first-part a:hover, .nav-bar-second-part a:hover {
+  color: #F4C41C;
 }/*# sourceMappingURL=navBar.css.map */

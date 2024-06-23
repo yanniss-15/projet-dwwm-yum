@@ -16,6 +16,9 @@
   text-decoration: none;
   color: white;
 }
+.nav-bar-first-part a:hover, .nav-bar-second-part a:hover {
+  color: #F4C41C;
+}
 
 * {
   padding: 0;
@@ -29,5 +32,12 @@
   padding-left: 10px;
   padding-right: 10px;
   border-radius: 10px;
-  color: black;
+}
+.button-yellow:hover {
+  color: black !important;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
 }/*# sourceMappingURL=style.css.map */

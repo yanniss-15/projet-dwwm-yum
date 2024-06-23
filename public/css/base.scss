@@ -10,5 +10,13 @@
     padding-left: 10px;
     padding-right: 10px;
     border-radius: 10px;
-    color: black;
+
+    &:hover {
+        color: black !important;
+    }
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
 }
