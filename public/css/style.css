@@ -1,1 +1,33 @@
-@import url(navBar.scss);/*# sourceMappingURL=style.css.map */
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: black;
+}
+.nav-bar .nav-bar-logo {
+  width: 100px;
+}
+.nav-bar-first-part, .nav-bar-second-part {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.nav-bar-first-part a, .nav-bar-second-part a {
+  text-decoration: none;
+  color: white;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.button-yellow {
+  background-color: #F4C41C;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  color: black;
+}/*# sourceMappingURL=style.css.map */

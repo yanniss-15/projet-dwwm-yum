@@ -1,0 +1,21 @@
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+
+    .nav-bar-logo {
+        width: 100px;
+    }
+
+    &-first-part, &-second-part {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+
+        a {
+            text-decoration: none;
+            color: white;
+        }
+    }
+}

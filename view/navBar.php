@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/css/style.css">
     <title>Document</title>
 </head>
 <body>
@@ -17,7 +18,7 @@
                 <a href="#">Communauté</a>
            </div> 
            <div class="nav-bar-second-part">
-                <a href="#">S'inscrire</a>
+                <a href="#" class="button-yellow">S'inscrire</a>
                 <a href="#">Connexion</a>
            </div>
         </nav>

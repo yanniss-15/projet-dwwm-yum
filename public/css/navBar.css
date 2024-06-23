@@ -1,1 +1,18 @@
-/*# sourceMappingURL=navBar.css.map */
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: black;
+}
+.nav-bar .nav-bar-logo {
+  width: 100px;
+}
+.nav-bar-first-part, .nav-bar-second-part {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.nav-bar-first-part a, .nav-bar-second-part a {
+  text-decoration: none;
+  color: white;
+}/*# sourceMappingURL=navBar.css.map */
