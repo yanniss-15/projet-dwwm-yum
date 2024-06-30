@@ -10,8 +10,11 @@
 
     &-first-part, &-second-part {
         display: flex;
+        background-color: black;
         gap: 20px;
         align-items: center;
+        font-family: 'Roboto' sans-serif;
+        font-weight: bold;
 
         a {
             text-decoration: none;

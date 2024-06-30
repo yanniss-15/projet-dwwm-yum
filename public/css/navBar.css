@@ -9,8 +9,11 @@
 }
 .nav-bar-first-part, .nav-bar-second-part {
   display: flex;
+  background-color: black;
   gap: 20px;
   align-items: center;
+  font-family: "Roboto" sans-serif;
+  font-weight: bold;
 }
 .nav-bar-first-part a, .nav-bar-second-part a {
   text-decoration: none;

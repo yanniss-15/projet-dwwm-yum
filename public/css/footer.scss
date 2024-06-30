@@ -1,0 +1,13 @@
+.footer-background {
+    height: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .footer-yum {
+        font-family: 'Sarina', sans-serif;
+        color: $color2;
+    }
+}

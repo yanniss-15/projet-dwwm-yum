@@ -1,3 +1,4 @@
+<?php require ('head.php') ?>
 <?php require ('navBar.php')?>
 <body>
 <section class="container">
@@ -7,3 +8,4 @@
   </article>
 </section>
 </body>
+<?php require ('footer.php')?>
